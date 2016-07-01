@@ -2,7 +2,7 @@ module.exports = [
   {
     id: 1,
     name: "Adam",
-    image: "/images/Adam.png",
+    image: "/images/adamtest.png",
     characteristics: [
         {'Are they over 30?': true},
         {'Are they a dick?': false},
@@ -10,13 +10,14 @@ module.exports = [
         {'Are they male?': true},
         {'Beard?': false},
         {'Bilingual?': false},
-        {'Scottish?': false}
+        {'Scottish?': false},
+        {'Did they have coding experience before CC?': false}
       ]
   },
   {
     id: 2,
     name: "Aiden",
-    image: "/images/Aiden.png",
+    image: "/images/aidentest.png",
     characteristics: [
         {'Are they over 30?': true},
         {'Are they a dick?': false},
@@ -24,13 +25,14 @@ module.exports = [
         {'Are they male?': true},
         {'Beard?': false},
         {'Bilingual?': false},
-        {'Scottish?': true}
+        {'Scottish?': true},
+        {'Did they have coding experience before CC?': false}
       ]
   },
   {
     id: 3,
     name: "Alistair",
-    image: "/images/Alistair.png",
+    image: "/images/alistairtest.png",
     characteristics: [
           {'Are they over 30?': false},
           {'Are they a dick?': false},
@@ -38,13 +40,14 @@ module.exports = [
           {'Are they male?': true},
           {'Beard?': false},
           {'Bilingual?': false},
-          {'Scottish?': false}
+          {'Scottish?': false},
+          {'Did they have coding experience before CC?': false}
       ]
   },
   {
     id: 4,
     name: "Andy",
-    image: "/images/Andy.png",
+    image: "/images/andytest.png",
     characteristics: [
           {'Are they over 30?': false},
           {'Are they a dick?': false},
@@ -52,13 +55,14 @@ module.exports = [
           {'Are they male?': true},
           {'Beard?': false},
           {'Bilingual?': false},
-          {'Scottish?': true}
+          {'Scottish?': true},
+          {'Did they have coding experience before CC?': false}
       ]
   },
   {
     id: 5,
     name: "Becky",
-    image: "/images/Becky.png",
+    image: "/images/beckytest.png",
     characteristics: [
         {'Are they over 30?': false},
         {'Are they a dick?': false},
@@ -66,13 +70,14 @@ module.exports = [
         {'Are they male?': false},
         {'Beard?': false},
         {'Bilingual?': false},
-        {'Scottish?': false}
+        {'Scottish?': false},
+        {'Did they have coding experience before CC?': false}
       ]
   },
   {
     id: 6,
     name: "Chris",
-    image: "/images/Chris.png",
+    image: "/images/christest.png",
     characteristics: [
         {'Are they over 30?': false},
         {'Are they a dick?': false},
@@ -80,13 +85,14 @@ module.exports = [
         {'Are they male?': true},
         {'Beard?': true},
         {'Bilingual?': false},
-        {'Scottish?': true}
+        {'Scottish?': true},
+        {'Did they have coding experience before CC?': false}
       ]
   },
   {
     id: 7,
     name: "David",
-    image: "/images/David.png",
+    image: "/images/davidtest.png",
     characteristics: [
         {'Are they over 30?': false},
         {'Are they a dick?': false},
@@ -94,13 +100,14 @@ module.exports = [
         {'Are they male?': true},
         {'Beard?': false},
         {'Bilingual?': true},
-        {'Scottish?': true}
+        {'Scottish?': true},
+        {'Did they have coding experience before CC?': false}
       ]
   },
   {
     id: 8,
     name: "Donald",
-    image: "/images/Donald.png",
+    image: "/images/donaldtest.png",
     characteristics: [
         {'Are they over 30?': true},
         {'Are they a dick?': false},
@@ -108,13 +115,14 @@ module.exports = [
         {'Are they male?': true},
         {'Beard?': false},
         {'Bilingual?': false},
-        {'Scottish?': true}
+        {'Scottish?': true},
+        {'Did they have coding experience before CC?': false}
       ]
   },
   {
     id: 9,
     name: "Hamish",
-    image: "/images/Hamish.png",
+    image: "/images/hamishtest.png",
     characteristics: [
         {'Are they over 30?': true},
         {'Are they a dick?': false},
@@ -122,13 +130,14 @@ module.exports = [
         {'Are they male?': true},
         {'Beard?': true},
         {'Bilingual?': false},
-        {'Scottish?': true}
+        {'Scottish?': true},
+        {'Did they have coding experience before CC?': true}
       ]
   },
   {
     id: 10,
     name: "Harry",
-    image: "/images/Harry.png",
+    image: "/images/harryhtest.png",
     characteristics: [
         {'Are they over 30?': false},
         {'Are they a dick?': false},
@@ -136,13 +145,14 @@ module.exports = [
         {'Are they male?': true},
         {'Beard?': false},
         {'Bilingual?': false},
-        {'Scottish?': true}
+        {'Scottish?': true},
+        {'Did they have coding experience before CC?': true}
       ]
   },
   {
     id: 11,
     name: "Henry",
-    image: "/images/Henry.png",
+    image: "/images/henrytest.png",
     characteristics: [
         {'Are they over 30?': false},
         {'Are they a dick?': false},
@@ -150,27 +160,29 @@ module.exports = [
         {'Are they male?': true},
         {'Beard?': false},
         {'Bilingual?': false},
-        {'Scottish?': false}
+        {'Scottish?': false},
+        {'Did they have coding experience before CC?': false}
       ]
   },
   {
     id: 12,
     name: "Jeff",
-    image: "/images/Jeff.png",
+    image: "/images/jefftest.png",
     characteristics: [
         {'Are they over 30?': true},
         {'Are they a dick?': false},
         {'Do they wear glasses?': true},
         {'Are they male?': true},
         {'Beard?': false},
-        {'Bilingual?': false},
-        {'Scottish?': false}
+        {'Bilingual?': true},
+        {'Scottish?': false},
+        {'Did they have coding experience before CC?': false}
       ]
   },
   {
     id: 13,
     name: "Lewis",
-    image: "/images/Lewis.png",
+    image: "/images/lewistest.png",
     characteristics: [
         {'Are they over 30?': false},
         {'Are they a dick?': false},
@@ -178,13 +190,14 @@ module.exports = [
         {'Are they male?': true},
         {'Beard?': false},
         {'Bilingual?': false},
-        {'Scottish?': true}
+        {'Scottish?': true},
+        {'Did they have coding experience before CC?': false}
       ]
   },
   {
     id: 14,
     name: "Seumus",
-    image: "/images/Seumus.png",
+    image: "/images/seumustest.png",
     characteristics: [
         {'Are they over 30?': false},
         {'Are they a dick?': false},
@@ -192,13 +205,14 @@ module.exports = [
         {'Are they male?': true},
         {'Beard?': true},
         {'Bilingual?': false},
-        {'Scottish?': true}
+        {'Scottish?': true},
+        {'Did they have coding experience before CC?': false}
       ]
   },
   {
     id: 15,
     name: "Steven",
-    image: "/images/Steven.png",
+    image: "/images/steventest.png",
     characteristics: [
         {'Are they over 30?': true},
         {'Are they a dick?': false},
@@ -206,13 +220,14 @@ module.exports = [
         {'Are they male?': true},
         {'Beard?': false},
         {'Bilingual?': false},
-        {'Scottish?': true}
+        {'Scottish?': true},
+        {'Did they have coding experience before CC?': false}
       ]
   },
   {
     id: 16,
     name: "Wojtek",
-    image: "/images/Wojtek.png",
+    image: "/images/wojtektest.png",
     characteristics: [
         {'Are they over 30?': false},
         {'Are they a dick?': false},
@@ -220,13 +235,14 @@ module.exports = [
         {'Are they male?': true},
         {'Beard?': false},
         {'Bilingual?': true},
-        {'Scottish?': false}
+        {'Scottish?': false},
+        {'Did they have coding experience before CC?': true}
       ]
   },
   {
     id: 17,
     name: "Zak",
-    image: "/images/Zak.png",
+    image: "/images/zaktest.png",
     characteristics: [
         {'Are they over 30?': true},
         {'Are they a dick?': true},
@@ -234,7 +250,8 @@ module.exports = [
         {'Are they male?': true},
         {'Beard?': true},
         {'Bilingual?': false},
-        {'Scottish?': true}
+        {'Scottish?': true},
+        {'Did they have coding experience before CC?': true}
       ]
   }
 ]

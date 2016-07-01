@@ -1,6 +1,6 @@
 img {
-  width: 150px;
-  height: 180px;
+  width: 125px;
+  height: 150px;
   display: inline-block;
   padding: 5px;
 }
@@ -19,4 +19,11 @@ img {
 
 body {
   text-align: center;
+}
+
+.characterList {
+  /*background-color: whits;*/
+  border: 8px solid black;
+  border-radius: 25%;
+  padding: 50px;
 }

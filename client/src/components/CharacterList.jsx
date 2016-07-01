@@ -11,7 +11,7 @@ var CharacterList = React.createClass({
       );
     }.bind(this));
     return (
-      <div>
+      <div className='characterList'>
         {characterNodes}
       </div>
     );
