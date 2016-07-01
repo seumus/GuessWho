@@ -1,0 +1,22 @@
+img {
+  width: 150px;
+  height: 180px;
+  display: inline-block;
+  padding: 5px;
+}
+
+.character {
+  display: inline-block;
+}
+
+.image {
+  display: inline-block;
+}
+
+.questions {
+  display: inline-block;
+}
+
+body {
+  text-align: center;
+}
