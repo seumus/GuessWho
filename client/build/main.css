@@ -19,7 +19,15 @@ img {
 
 body {
   text-align: center;
-  /*background-color: grey;*/
+  background-color: grey;
+}
+
+h1 {
+  background-image: url('./images/logo.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  
+  height: 200px;
 }
 
 .characterList {

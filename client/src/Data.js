@@ -2,7 +2,7 @@ module.exports = [
   {
     id: 1,
     name: "Adam",
-    image: "/images/adamtest.png",
+    image: "/images/adamtest2.png",
     characteristics: [
         {'Are they over 30?': true},
         {'Are they a dick?': false},
@@ -18,7 +18,7 @@ module.exports = [
   {
     id: 2,
     name: "Aiden",
-    image: "/images/aidentest.png",
+    image: "/images/aidentest2.png",
     characteristics: [
         {'Are they over 30?': true},
         {'Are they a dick?': false},
@@ -34,7 +34,7 @@ module.exports = [
   {
     id: 3,
     name: "Alistair",
-    image: "/images/alistairtest.png",
+    image: "/images/alistairtest2.png",
     characteristics: [
           {'Are they over 30?': false},
           {'Are they a dick?': false},
@@ -50,7 +50,7 @@ module.exports = [
   {
     id: 4,
     name: "Andy",
-    image: "/images/andytest.png",
+    image: "/images/andytest2.png",
     characteristics: [
           {'Are they over 30?': false},
           {'Are they a dick?': false},
@@ -66,7 +66,7 @@ module.exports = [
   {
     id: 5,
     name: "Becky",
-    image: "/images/beckytest.png",
+    image: "/images/beckytest2.png",
     characteristics: [
         {'Are they over 30?': false},
         {'Are they a dick?': false},
@@ -82,7 +82,7 @@ module.exports = [
   {
     id: 6,
     name: "Chris",
-    image: "/images/christest.png",
+    image: "/images/christest2.png",
     characteristics: [
         {'Are they over 30?': false},
         {'Are they a dick?': false},
@@ -98,7 +98,7 @@ module.exports = [
   {
     id: 7,
     name: "David",
-    image: "/images/davidtest.png",
+    image: "/images/davidtest2.png",
     characteristics: [
         {'Are they over 30?': false},
         {'Are they a dick?': false},
@@ -114,7 +114,7 @@ module.exports = [
   {
     id: 8,
     name: "Donald",
-    image: "/images/donaldtest.png",
+    image: "/images/donaldtest2.png",
     characteristics: [
         {'Are they over 30?': true},
         {'Are they a dick?': false},
@@ -130,7 +130,7 @@ module.exports = [
   {
     id: 9,
     name: "Hamish",
-    image: "/images/hamishtest.png",
+    image: "/images/hamishtest2.png",
     characteristics: [
         {'Are they over 30?': true},
         {'Are they a dick?': false},
@@ -146,7 +146,7 @@ module.exports = [
   {
     id: 10,
     name: "Harry",
-    image: "/images/harryhtest.png",
+    image: "/images/harrytest2.png",
     characteristics: [
         {'Are they over 30?': false},
         {'Are they a dick?': false},
@@ -162,7 +162,7 @@ module.exports = [
   {
     id: 11,
     name: "Henry",
-    image: "/images/henrytest.png",
+    image: "/images/henrytest2.png",
     characteristics: [
         {'Are they over 30?': false},
         {'Are they a dick?': false},
@@ -178,7 +178,7 @@ module.exports = [
   {
     id: 12,
     name: "Jeff",
-    image: "/images/jefftest.png",
+    image: "/images/jefftest2.png",
     characteristics: [
         {'Are they over 30?': true},
         {'Are they a dick?': false},
@@ -194,7 +194,7 @@ module.exports = [
   {
     id: 13,
     name: "Lewis",
-    image: "/images/lewistest.png",
+    image: "/images/lewistest2.png",
     characteristics: [
         {'Are they over 30?': false},
         {'Are they a dick?': false},
@@ -210,7 +210,7 @@ module.exports = [
   {
     id: 14,
     name: "Seumus",
-    image: "/images/seumustest.png",
+    image: "/images/seumustest2.png",
     characteristics: [
         {'Are they over 30?': false},
         {'Are they a dick?': false},
@@ -226,7 +226,7 @@ module.exports = [
   {
     id: 15,
     name: "Steven",
-    image: "/images/steventest.png",
+    image: "/images/steventest2.png",
     characteristics: [
         {'Are they over 30?': true},
         {'Are they a dick?': false},
@@ -242,7 +242,7 @@ module.exports = [
   {
     id: 16,
     name: "Wojtek",
-    image: "/images/wojtektest.png",
+    image: "/images/wojtektest2.png",
     characteristics: [
         {'Are they over 30?': false},
         {'Are they a dick?': false},
@@ -258,7 +258,7 @@ module.exports = [
   {
     id: 17,
     name: "Zak",
-    image: "/images/zaktest.png",
+    image: "/images/zaktest2.png",
     characteristics: [
         {'Are they over 30?': true},
         {'Are they a dick?': true},

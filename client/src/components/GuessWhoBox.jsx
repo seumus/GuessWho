@@ -47,7 +47,7 @@ var GuessWhoBox = React.createClass({
     console.log(this.state.who);
     return (
       <div>
-        <h1>Guess Who!</h1>
+        <h1></h1>
         <CharacterList className='characterList' data={this.state.data}/>
         <CharacterForm questions={this.state.data} who={this.state.who} askQuestion={this.askQuestion}/>
         <AnswerForm turn={this.state.turn} data={this.state.data} askAnswer={this.askAnswer}/>

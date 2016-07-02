@@ -10,7 +10,7 @@ var Character = React.createClass({
   changeImage: function() {
     console.log();
     if(this.state.src === this.props.image) {
-      this.setState({src:'/images/cardback.png'})
+      this.setState({src:'/images/tester.png'})
     }
     else {
       this.setState({src:this.props.image})
