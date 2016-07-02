@@ -24,7 +24,7 @@ var CharacterForm = React.createClass({
   },
 
   render: function() {
-    console.log('t', this.props.who);
+    // console.log('t', this.props.who);
     var displayAnswer = null;
     if(this.state.answer) {
       displayAnswer = <p>{this.state.answer}</p>

@@ -11,7 +11,8 @@ module.exports = [
         {'Beard?': false},
         {'Bilingual?': false},
         {'Scottish?': false},
-        {'Did they have coding experience before CC?': false}
+        {'Did they have coding experience before CC?': false},
+        {'Vegetarian?': false}
       ]
   },
   {
@@ -26,7 +27,8 @@ module.exports = [
         {'Beard?': false},
         {'Bilingual?': false},
         {'Scottish?': true},
-        {'Did they have coding experience before CC?': false}
+        {'Did they have coding experience before CC?': false},
+        {'Vegetarian?': false}
       ]
   },
   {
@@ -41,7 +43,8 @@ module.exports = [
           {'Beard?': false},
           {'Bilingual?': false},
           {'Scottish?': false},
-          {'Did they have coding experience before CC?': false}
+          {'Did they have coding experience before CC?': false},
+          {'Vegetarian?': false}
       ]
   },
   {
@@ -56,7 +59,8 @@ module.exports = [
           {'Beard?': false},
           {'Bilingual?': false},
           {'Scottish?': true},
-          {'Did they have coding experience before CC?': false}
+          {'Did they have coding experience before CC?': false},
+          {'Vegetarian?': false}
       ]
   },
   {
@@ -71,7 +75,8 @@ module.exports = [
         {'Beard?': false},
         {'Bilingual?': false},
         {'Scottish?': false},
-        {'Did they have coding experience before CC?': false}
+        {'Did they have coding experience before CC?': false},
+        {'Vegetarian?': false}
       ]
   },
   {
@@ -86,7 +91,8 @@ module.exports = [
         {'Beard?': true},
         {'Bilingual?': false},
         {'Scottish?': true},
-        {'Did they have coding experience before CC?': false}
+        {'Did they have coding experience before CC?': false},
+        {'Vegetarian?': false}
       ]
   },
   {
@@ -101,7 +107,8 @@ module.exports = [
         {'Beard?': false},
         {'Bilingual?': true},
         {'Scottish?': true},
-        {'Did they have coding experience before CC?': false}
+        {'Did they have coding experience before CC?': false},
+        {'Vegetarian?': false}
       ]
   },
   {
@@ -116,7 +123,8 @@ module.exports = [
         {'Beard?': false},
         {'Bilingual?': false},
         {'Scottish?': true},
-        {'Did they have coding experience before CC?': false}
+        {'Did they have coding experience before CC?': false},
+        {'Vegetarian?': false}
       ]
   },
   {
@@ -131,7 +139,8 @@ module.exports = [
         {'Beard?': true},
         {'Bilingual?': false},
         {'Scottish?': true},
-        {'Did they have coding experience before CC?': true}
+        {'Did they have coding experience before CC?': true},
+        {'Vegetarian?': false}
       ]
   },
   {
@@ -146,7 +155,8 @@ module.exports = [
         {'Beard?': false},
         {'Bilingual?': false},
         {'Scottish?': true},
-        {'Did they have coding experience before CC?': true}
+        {'Did they have coding experience before CC?': true},
+        {'Vegetarian?': false}
       ]
   },
   {
@@ -161,7 +171,8 @@ module.exports = [
         {'Beard?': false},
         {'Bilingual?': false},
         {'Scottish?': false},
-        {'Did they have coding experience before CC?': false}
+        {'Did they have coding experience before CC?': false},
+        {'Vegetarian?': false}
       ]
   },
   {
@@ -176,7 +187,8 @@ module.exports = [
         {'Beard?': false},
         {'Bilingual?': true},
         {'Scottish?': false},
-        {'Did they have coding experience before CC?': false}
+        {'Did they have coding experience before CC?': false},
+        {'Vegetarian?': true}
       ]
   },
   {
@@ -191,7 +203,8 @@ module.exports = [
         {'Beard?': false},
         {'Bilingual?': false},
         {'Scottish?': true},
-        {'Did they have coding experience before CC?': false}
+        {'Did they have coding experience before CC?': false},
+        {'Vegetarian?': false}
       ]
   },
   {
@@ -206,7 +219,8 @@ module.exports = [
         {'Beard?': true},
         {'Bilingual?': false},
         {'Scottish?': true},
-        {'Did they have coding experience before CC?': false}
+        {'Did they have coding experience before CC?': false},
+        {'Vegetarian?': true}
       ]
   },
   {
@@ -221,7 +235,8 @@ module.exports = [
         {'Beard?': false},
         {'Bilingual?': false},
         {'Scottish?': true},
-        {'Did they have coding experience before CC?': false}
+        {'Did they have coding experience before CC?': false},
+        {'Vegetarian?': false}
       ]
   },
   {
@@ -236,7 +251,8 @@ module.exports = [
         {'Beard?': false},
         {'Bilingual?': true},
         {'Scottish?': false},
-        {'Did they have coding experience before CC?': true}
+        {'Did they have coding experience before CC?': true},
+        {'Vegetarian?': false}
       ]
   },
   {
@@ -251,7 +267,8 @@ module.exports = [
         {'Beard?': true},
         {'Bilingual?': false},
         {'Scottish?': true},
-        {'Did they have coding experience before CC?': true}
+        {'Did they have coding experience before CC?': true},
+        {'Vegetarian?': false}
       ]
   }
 ]

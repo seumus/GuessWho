@@ -37,7 +37,7 @@ var GuessWhoBox = React.createClass({
     }
     else {
       this.setState({turn: false})
-      return 'You lose!'
+      return 'You lose! The right answer was: ' + this.state.who.name
     }
   },
 
